@@ -1,7 +1,6 @@
 name: Set up python environment
 
-on:
-  workflow_call:
+on: [workflow_dispatch, workflow_call]
 
 jobs:
   build:
