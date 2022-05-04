@@ -1,4 +1,4 @@
-name: Python package
+name: Set up python environment
 
 on: [push]
 
