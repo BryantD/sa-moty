@@ -1,0 +1,14 @@
+name: generate stats
+
+on:
+  push:
+    paths:
+      - '2022-**'
+      
+jobs:
+  gen-stats:
+  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ./.github/workflows/setup-python-env.yml
+      - run: python moty.py -c 2022-hm.txt
