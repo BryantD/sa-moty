@@ -1,6 +1,7 @@
 name: Set up python environment
 
 on: [push]
+  workflow_call:
 
 jobs:
   build:
