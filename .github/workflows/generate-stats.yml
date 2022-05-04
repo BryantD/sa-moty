@@ -1,11 +1,10 @@
 name: generate stats
 
-on:
+on: workflow_dispatch
   push:
     paths:
       - '2022-**'
-  workflow-dispatch:
-      
+            
 jobs:
   gen-stats:
   
