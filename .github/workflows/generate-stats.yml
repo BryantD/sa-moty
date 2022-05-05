@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: ls -laR
-      - uses: .github/workflows/setup-python-env
+      - uses: ./.github/workflows/setup-python-env.yml
       - run: python moty.py -c 2022-hm.txt
