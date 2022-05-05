@@ -12,5 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: ls -lR
       - uses: ./.github/workflows/setup-python-env
       - run: python moty.py -c 2022-hm.txt
