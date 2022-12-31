@@ -4,7 +4,6 @@
 *.png
 MOTY.bbprojectd/
 README-ffmpeg
-Taskfile.yml
 historical
 imgur_obj.p
 video-links/

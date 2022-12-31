@@ -1,0 +1,31 @@
+version: '3'
+
+env:
+    HMCHART: 2022 Honorable Mentions
+    MOTYCCHART: 2022 MOTYCs
+    HMBAR: $HMCHART Bar Chart
+    MOTYCBAR: $MOTYCCHART Bar Chart
+
+tasks:
+    charts:
+        deps: [event-charts, bar-charts]
+
+    event-charts:
+        cmds:
+            - ./moty.py -g "{{.HMCHART}}" 2022-hm.txt
+            - ./moty.py -g "{{.MOTYCCHART}}" 2022-motyc.txt
+
+    bar-charts:
+        deps: [make-bar-charts]
+        cmds:
+            - convert "{{.HMBAR}}.gif" -loop 1 temp.gif; mv temp.gif "{{.HMBAR}}.gif"
+            - convert "{{.MOTYCBAR}}.gif" -loop 1 temp.gif; mv temp.gif "{{.MOTYCBAR}}.gif"
+
+    make-bar-charts:
+        cmds:
+            - ./moty.py -gr "{{.HMBAR}}" 2022-hm.txt
+            - ./moty.py -gr "{{.MOTYCBAR}}" 2022-motyc.txt
+
+    upload:
+        cmds:
+            - ./upload.py
