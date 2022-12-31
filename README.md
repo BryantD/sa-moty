@@ -77,6 +77,8 @@ That doesn't tell us anything about who's in the match, so here's a chunk of `co
 
 Under the hood, the line in the file is rewritten to the second long line there with all the individual tag teams in them. This is mostly useful for battle royales but it's also useful for cases where a tag team has a different member for one day or something.
 
+Note that the code knows how to handle stuff like "Dark Order (10 & 5)" -- it doesn't look up the tag team in that case, it just assumes the wrestlers are whoever's listed in parentheses.
+
 # upload.py
 
 This is my clunky automation for uploading the images to imgur. You will need to copy `upload-conf-sample.py` to `upload-conf.py` and then edit your imgur API tokens.  The first time you run it, uncomment the bit that says "Uncomment from here to get the initial auth tokens saved". Or rewrite my code so that it can tell if auth tokens are saved, that'd probably be cooler.

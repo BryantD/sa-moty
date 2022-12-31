@@ -4,12 +4,16 @@
         "Alan V Angels": "5",
         "Andrade": "Andrade El Idolo",
         "ASUKA": "VENY",
+        "BLACK On The Outside Blue On The Inside Hikaritaro Nohashi": "Taro Nohashi",
+        "Brahman Ota": "Pretty Ota",
         "Brian Danielson": "Bryan Danielson",
         "Brian Pillman Jr": "Brian Pillman Jr.",
         "Britt Baker": "Dr. Britt Baker D.M.D.",
         "Chris Dicksinon": "Chris Dickinson",
+        "Chris Drago": "Chris Brookes",
         "Christian": "Christian Cage",
         "Cobb": "Jeff Cobb",
+        "Daniel LaRusso No. 2": "Yapper Man 2",
         "Despy": "El Desperado",
         "Dick Tojo": "Dick Togo",
         "Dr Britt Baker DMD": "Dr. Britt Baker D.M.D.",
@@ -30,6 +34,7 @@
         "Lulupencil": "Lulu Pencil",
         "Manik": "TJP",
         "Matt Lee": "Matt Menard",
+        "Mr. Miyagi No. 1": "Yapper Man 1",
         "Naito": "Tetsuya Naito",
         "O-Khan": "Great O-Khan",
         "Ospreay": "Will Ospreay",
@@ -54,6 +59,7 @@
         "SW3RVE The Realest": "Swerve Strickland",
         "Swerve": "Swerve Strickland",
         "Switchblade Jay White": "Jay White",
+        "Taven": "Matt Taven",
         "the Blade": "The Blade",
         "The Captain Shawn Dean": "Shawn Dean",
         "Toni Sofrm": "Toni Storm",
@@ -65,7 +71,7 @@
         "Yujiro": "Yujiro Takahashi",
         "Zack Sabre Jr": "Zack Sabre Jr."
     },
-    
+
     "tag_aliases": {
         "2.0": "2point0",
         "2Point0": "2point0",
@@ -101,7 +107,10 @@
         "BeeStar": ["Mirai Maiumi", "Suzume"],
         "Best Bros": ["Mei Suruga", "Baliyan Akki"],
         "Best Friends": ["Chuck Taylor", "Trent? Beretta"],
+        "Bishamon": ["Hiroshi Goto", "YOSHI-HASHI"],
+        "Brawling Brutes": ["Sheamus", "Ridge Holland", "Butch"],
         "Blackpool Combat Club": ["Wheeler Yuta", "Bryan Danielson", "Jon Moxley"],
+        "Catch 2": ["Francesco Akira", "TJP"],
         "CDK": ["Masahiro Takanashi", "Chris Brookes"],
         "Dangerous Tekkers": ["Zack Sabre Jr.", "Taichi"],
         "EGG TART": ["Chie Koishikawa", "Hagane Shinnou"],
@@ -129,6 +138,7 @@
         "The Brahman Brothers": ["Brahman Shu", "Brahman Kei"],
         "The Briscoes": ["Jay Briscoe", "Mark Briscoe"],
         "The Good Brothers": ["Doc Gallows", "Karl Anderson"],
+        "The Elite": ["Nick Jackson", "Matt Jackson", "Kenny Omega"],
         "The Hardys": ["Jeff Hardy", "Matt Hardy"],
         "The Hybrid2": ["Angelico", "Jack Evans"],
         "The Inner Circle": [
@@ -195,7 +205,15 @@
         "08/17 | The Young Bucks & Kenny Omega vs. La Faccion Ingobernable - AEW Dynamite":
             "08/17 | The Young Bucks & Kenny Omega vs. La Faccion Ingobernable and Dragon Lee) - AEW Dynamite",
         "09/04 | Hangman & The Dark Order vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out":
-            "09/04 | Hangman & The Dark Order (Alex Reynolds and John Silver) vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out"
+            "09/04 | Hangman & The Dark Order (Alex Reynolds and John Silver) vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out",
+        "10/07 | Triangulo de la Muerte (C) vs. The Dark Order for the Trios Tag Titles - AEW Rampage":
+            "10/07 | Triangulo de la Muerte (C) vs. The Dark Order (10, Alex Reynolds, and John Silver) for the Trios Tag Titles - AEW Rampage",
+        "10/18 | Triangulo de la Muerte (C) vs. The Best Friends for the Trios Tag Titles - AEW Dynamite (4 MOTY votes)":
+            "10/18 | Triangulo de la Muerte (C) vs. The Best Friends (Orange Cassidy, Trent, and Chuck Taylor) for the Trios Tag Titles - AEW Dynamite (4 MOTY votes)",
+        "10/26 | BCC (Claudio & Yuta) vs. JAS (Jericho & Garcia) - AEW Dynamite":
+            "10/26 | BCC (Claudio Castagnoli & Wheeler Yuta) vs. JAS (Chris Jericho & Daniel Garcia) - AEW Dynamite",
+        "12/19 | Suzuki-gun (Suzuki & DOUKI) vs. Jun Kasai & Tomoaki Honma - JTO TakaTaichi 50th Anniversary Show":
+            "12/19 | Suzuki-gun (Minoru Suzuki & DOUKI) vs. Jun Kasai & Tomoaki Honma - JTO TakaTaichi 50th Anniversary Show"
     }
 }
 
