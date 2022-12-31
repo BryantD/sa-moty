@@ -7,5 +7,6 @@ README-ffmpeg
 Taskfile.yml
 historical
 imgur_obj.p
-upload.py
 video-links/
+upload_conf.py
+__pycache__/

@@ -1,3 +1,7 @@
+# Intro
+
+Just terrible code. Big and monolithic and it aggregated rather than being designed, and you're gonna have to figure out required packages on your own. Sorry!
+
 # moty.py
 
 ## Usage
@@ -66,11 +70,11 @@ That doesn't tell us anything about who's in the match, so here's a chunk of `co
     "matches": {
         "03/02 | Tag Team Elimination Battle Royale - AEW Dynamite":
             "03/02 | Top Flight vs. The Acclaimed vs. Dark Order (10 & 5) vs. The Butcher & The Blade vs. Varsity Blonds vs. Bear Country vs. Proud 'n' Powerful vs. Best Friends vs. Dark Order (Stu Grayson & Evil Uno) vs. The Young Bucks vs. Ryan Nemeth & Peter Avalon vs. Gunn Club vs. Brock Anderson & Lee Johnson vs. 2point0 - AEW Dynamite",
-    {
+    }
 ```
 
 Under the hood, the line in the file is rewritten to the second long line there with all the individual tag teams in them. This is mostly useful for battle royales but it's also useful for cases where a tag team has a different member for one day or something.
 
 # upload.py
 
-This is my clunky automation for uploading the images to imgur. You will need to edit your API tokens in `upload-conf.py`.  The first time you run it, uncomment the bit that says "Uncomment from here to get the initial auth tokens saved". Or rewrite my code so that it can tell if auth tokens are saved, that'd probably be cooler.
+This is my clunky automation for uploading the images to imgur. You will need to copy `upload-conf-sample.py` to `upload-conf.py` and then edit your imgur API tokens.  The first time you run it, uncomment the bit that says "Uncomment from here to get the initial auth tokens saved". Or rewrite my code so that it can tell if auth tokens are saved, that'd probably be cooler.
