@@ -1,0 +1,178 @@
+{
+    "aliases": {
+        "Abaddon": "Abadon",
+        "Alan V Angels": "5",
+        "Andrade": "Andrade El Idolo",
+        "ASUKA": "VENY",
+        "Brian Pillman Jr": "Brian Pillman Jr.",
+        "Britt Baker": "Dr. Britt Baker D.M.D.",
+        "Chris Dicksinon": "Chris Dickinson",
+        "Christian": "Christian Cage",
+        "Cobb": "Jeff Cobb",
+        "Dick Tojo": "Dick Togo",
+        "Dr Britt Baker DMD": "Dr. Britt Baker D.M.D.",
+        "Dr. Britt Baker D.M.D": "Dr. Britt Baker D.M.D.",
+        "Dr. Britt Baker DMD": "Dr. Britt Baker D.M.D.",
+        "El Vikingo": "El Hijo del Vikingo",
+        "Feugo del Sol": "Fuego del Sol",
+        "Hangman Page": "Hangman Adam Page",
+        "Henare": "Aaron Henare",
+        "HOOK": "Hook",
+        "Ishii": "Tomohiro Ishii",
+        "Lulupencil": "Lulu Pencil",
+        "Manik": "TJP",
+        "Naito": "Tetsuya Naito",
+        "O-Khan": "The Great O-Khan",
+        "Penta 0M": "Penta El Zero M",
+        "Penta El 0 M": "Penta El Zero M",
+        "Penta El 0M": "Penta El Zero M",
+        "Penta El Zero Miedo": "Penta El Zero M",
+        "Powerhouse Hobbs": "Powerhouse Will Hobbs",
+        "Presten 10 Vance": "10",
+        "Red Velt": "Red Velvet",
+        "Reynolds": "Alex Reynolds",
+        "Rick Starks": "Ricky Starks",
+        "Ruby Riott": "Ruby Soho",
+        "Shingo": "Shingo Takagi",
+        "Silver": "John Silver",
+        "Stu": "Stu Grayson",
+        "Switchblade Jay White": "Jay White",
+        "Uno": "Evil Uno",
+        "Veny": "VENY",
+        "WARDLOW": "Wardlow",
+        "Yujiro": "Yujiro Takahashi",
+        "Zack Sabre Jr": "Zack Sabre Jr."
+    },
+    
+    "tag_aliases": {
+        "Bakuretsu Sisters": "The Bakuretsu Sisters",
+        "Brahman Brothers": "The Brahman Brothers",
+        "Inner Circle": "The Inner Circle",
+        "Lucha Bros": "The Lucha Bros",
+        "Lucha Brothers": "The Lucha Bros",
+        "Proud 'N' Powerful": "Proud 'n' Powerful",
+        "Proud N Powerful": "Proud 'n' Powerful",
+        "TH2": "The Hybrid2",
+        "The Hybrid 2": "The Hybrid2",
+        "The SuperKliq": "The Super Kliq",
+        "The Varsity Blondes": "Varsity Blonds",
+        "Varsity Blondes": "Varsity Blonds"
+    },
+    
+    "tag_teams": {
+        "121000000": ["Maki Ito", "Miyu Yamashita"],
+        "2.0": ["Jeff Parker", "Matt Lee"],
+        "Bear Country": ["Bear Boulder", "Bear Bronson"],
+        "Beauty As Is": ["Emi Sakura", "Yuna Mizomori"],
+        "BeeStar": ["Mirai Maiumi", "Suzume"],
+        "Best Bros": ["Mei Suruga", "Baliyan Akki"],
+        "Best Friends": ["Chuck Taylor", "Trent? Beretta"],
+        "Dangerous Tekkers": ["Zack Sabre Jr.", "Taichi"],
+        "EGG TART": ["Chie Koishikawa", "Hagane Shinnou"],
+        "FTR": ["Cash Wheeler", "Dax Harwood"],
+        "Funky Express": ["Mohammed Yone", "Shuhei Taniguchi"],
+        "Guerillas of Destiny": ["Tama Tonga", "Tanga Loa"],
+        "Gunn Club": ["Austin Gunn", "Colten Gunn"],
+        "Jurassic Express": ["Jungle Boy", "Luchasaurus"],
+        "Magical Sugar Rabbits": ["Mizuki", "Yuka Sakazaki"],
+        "Men of the Year": ["All Ego Ethan Page", "Scorpio Sky"],
+        "OGK": ["Matt Taven", "Mike Bennett"],
+        "Othello": ["Tokiko Kirihara", "Sayaka"],
+        "Private Party": ["Isiah Kassidy", "Marq Quen"],
+        "Proud 'n' Powerful": ["Santana", "Ortiz"],
+        "ReDragon": ["Bobby Fish", "Kyle O'Reilly"],
+        "SoCal Uncensored": ["Christopher Daniels", "Frankie Kazarian"],
+        "The Acclaimed": ["Anthony Bowens", "Max Caster"],
+        "The Aggression": ["Katsuhiko Nakajima", "Masa Kitamiya"],
+        "The Bakuretsu Sisters": ["Nodoka Tenma", "Yuki Aino"],
+        "The Brahman Brothers": ["Brahman Shu", "Brahman Kei"],
+        "The Briscoes": ["Jay Briscoe", "Mark Briscoe"],
+        "The Good Brothers": ["Doc Gallows", "Karl Anderson"],
+        "The Hybrid2": ["Angelico", "Jack Evans"],
+        "The Inner Circle": [
+            "Chris Jericho",
+            "Sammy Guevara",
+            "Ortiz",
+            "Santana",
+            "Jake Hager"
+        ],
+        "The Jungle Express": ["Jungle Boy", "Luchasaurus", "Marko Stunt"],
+        "The Lucha Bros": ["Penta El Zero M", "Rey Fenix"],
+        "The Natural Nightmares": ["Dustin Rhodes", "QT Marshall"],
+        "The Pinnacle": [
+            "MJF",
+            "Wardlow",
+            "Shawn Spears",
+            "Cash Wheeler",
+            "Dax Harwood"
+        ],
+        "The Pretty Picture": ["Peter Avalon", "Cezar Bononi"],
+        "The Super Kliq": ["Adam Cole", "Nick Jackson", "Matt Jackson"],
+        "The Sydal Brothers": ["Matt Sydal", "Mike Sydal"],
+        "The Young Bucks": ["Nick Jackson", "Matt Jackson"],
+        "Top Flight": ["Dante Martin", "Darius Martin"],
+        "Triangulo de la Muerte": ["PAC", "Penta El Zero M", "Rey Fenix"],
+        "Varsity Blonds": ["Brian Pillman Jr.", "Griff Garrison"]
+    },
+
+    "matches": {
+        "02/11 | Bakuretsu Sisters (C) vs. Hyper Misao and Shin-Ultra Shoko HYPER ULTRA JUDGEMENT match - TJPW Positive Chain": 
+            "02/11 | Bakuretsu Sisters (C) vs. Hyper Misao and Shin-Ultra Shoko - TJPW Positive Chain",
+        "07/18 | Men's Money in the Bank Match - WWE Money in the Bank": 
+            "07/18 |  Drew McIntyre, John Morrison, Ricochet, Matt Riddle, Big E, Kevin Owens, King Nakamura, Seth Rollins in a Men's Money in the Bank Match - WWE Money in the Bank",
+        "07/28 | The Elite (Omega & The Bucks) & The Good Brothers vs. Hangman Page & The Dark Order (Uno, Stu, Reynolds & Silver) in an Elimination Tag match - AEW Dynamite": 
+            "07/28 | Kenny Omega & The Young Bucks & The Good Brothers vs. Hangman Page & The Dark Order (Uno, Stu, Reynolds & Silver) in an Elimination Tag match - AEW Dynamite",
+        "01/16 | The Elite vs. Rich Swann, Chris Sabin & Moose - Impact Hard to Kill": 
+            "01/16 | Kenny Omega & The Good Brothers vs. Rich Swann, Chris Sabin & Moose - Impact Hard to Kill",
+        "03/07 | Casino Tag Team Battle Royale - AEW Revolution": 
+            "03/07 | The Natural Nightmares & Alan Angels & Preston Vance & Proud 'n' Powerful & The Sydal Brothers & Evil Uno & Stu Grayson & Gunn Club & The Pretty Picture & Varsity Blondes & Bear Country & Jurassic Express & The Butcher and The Blade & Private Party & SoCal Uncensored & PAC & Rey Fenix & Alex Reynolds & John Silver in the Casino Tag Team Battle Royale - AEW Revolution",
+        "05/24 | Pencil Army vs. Chris Brookes, ASUKA & Yuna Mizumori - CHOCOPRO #120": 
+            "05/24 | Pencil Army (Lulu Pencil, Emi Sakura, and Minoru Fujita) vs. Chris Brookes, ASUKA & Yuna Mizumori - CHOCOPRO #120",
+        "06/06 | Team DDT vs. Kongoh (NOAH) in a 12-Person Interpromotional Match - Cyberfight Festival 2021": 
+            "06/06 | Team DDT (Sanshiro Takagi, Akito, Kazusada Higuchi, Yukio Sakaguchi, Naomi Yoshimura and Yukio Naya) vs. Kongo (Kenoh, Katsuhiko Nakajima, Manabu Soya, Haoh, Nioh and Tadasuke) in a 12-Person Interpromotional Match - Cyberfight Festival 2021",
+        "05/30 | Casino Battle Royale - AEW Double or Nothing": 
+            "05/30 | Christian Cage vs. Matt Sydal vs. Powerhouse Hobbs vs. Penta El Zero Miedo vs. Jungle Boy vs. Matt Hardy vs. Marq Quen vs. Isiah Kassidy vs. The Blade vs. Evil Uno vs. Colt Cabana vs. 10 vs. Griff Garrison vs. Brian Pillman Jr. vs. Max Caster vs. Anthony Bowens vs. QT Marshall vs. Nick Comoroto vs. Dustin Rhodes vs. Lee Johnson vs. Lio Rush in the Casino Battle Royale - AEW Double or Nothing",
+        "09/05 | Casino Battle Royale - AEW All Out": 
+            "09/05 | Hikaru Shida, Emi Sakura, Rebel, Diamante, Penelope Ford, Tay Conti, Thunder Rosa, Red Velvet, The Bunny, Jamie Hayter, Big Swole, Nyla Rose, Julia Hart, Leyla Hirsch, KiLynn King, Kiera Hogan, Anna Jay, Jade Cargill, Abadon, Riho, Skye Blue in the Casino Battle Royale - AEW All Out",
+        "04/28 | The Young Bucks vs. Matt & Mike Sydal - AEW Dynamite": 
+            "04/28 | The Young Bucks vs. Matt Sydal & Mike Sydal - AEW Dynamite",
+        "05/04 | NEO Biishiki-gun vs. BeeStar - TJPW YES! WONDERLAND 2021": 
+            "05/04 | NEO Biishiki-gun (Mei Saint-Michel & Sakisama) vs. BeeStar - TJPW YES! WONDERLAND 2021",
+        "05/23 | The All-Star Battle Royal - Hana Kimura Memorial Show": 
+            "05/23 | Ram Kaicho and Aiger and Andras Miyagi and Banana Senga and Cherry and Chihiro Hashimoto and CIMA and DASH Chisako and Fuminori Abe and Gabai Ji-chan and Hagane Shinnou and Sakura Hirota and Hanako Nakamori and Jinsei Shinzaki and Jun Kasai and Lingerie Muto and Masato Tanaka and Menso-re Oyaji and Mika Iwata and Miyuki Takase and Moeka Haruhi and Shotaro Ashino and Super Delfin and Tsutomu Oosugi and Yuki Miyazaki and Yuko Miyamoto and Yusuke Kodama in the All-Star Battle Royal - Hana Kimura Memorial Show",
+        "02/03 | World Tag Team Championship Challenger Battle Royale - AEW Dynamite Beach Break": 
+            "02/03 | Matt & Nick Jackson, Chris Jericho & MJF, Jake Hager & Sammy Guevara, Santana & Ortiz, Jurassic Express, Private Party, Evil Uno & Stu Grayson, Alex Reynolds & John Silver, The Acclaimed, Top Flight  in a World Tag Team Championship Challenger Battle Royale - AEW Dynamite Beach Break",
+        "05/30 | Best Bros, EGG TART, Beauty As Is, Othello, Chon Shiryu & Lulupencil, and X (Mystery Team) in a Gauntlet Match - Gatoh Move/Chocopro (4+ MOTY votes)":
+            "05/30 | Best Bros, EGG TART, Beauty As Is, Othello, Chon Shiryu & Lulupencil in a Gauntlet Match - Gatoh Move/Chocopro (4+ MOTY votes)",
+        "01/31 | Women's Royal Rumble - WWE Royal Rumble":
+            "01/31 | Bayley & Naomi & Bianca Belair & Billie Kay & Shotzi Blackheart & Shayna Baszler & Toni Storm & Jillian Hall & Ruby Riott & Victoria & Peyton Royce & Santana Garrett & Liv Morgan & Rhea Ripley & Charlotte Flair & Dana Brooke & Torrie Wilson & Lacey Evans & Mickie James & Nikki Cross & Alicia Fox & Mandy Rose & Dakota Kai & Carmella & Tamina & Lana & Alexa Bliss & Ember Moon & Nia Jax & Natalya in the Women's Royal Rumble - WWE Royal Rumble",
+        "06/06 | Pre-Show Battle Royal - CyberFight Festival 2021":
+            "06/06 | Antonio Honda vs. Akitoshi Saito vs. Kazuki Hirata vs. Makoto Oishi vs. Masao Inoue vs. Mohammed Yone vs. Saki Akai vs. Shuhei Taniguchi vs. Shu Sakurai vs. Toru Owashi vs. Yoshiaki Yatsu vs. Yuji Hino vs. Yuna Manase vs. Yusuke Okada vs. Yuya Koroku in a Pre-Show Battle Royal - CyberFight Festival 2021",
+        "09/04 | PBR Ladder 2 Ring Fuckfest - GCW The Art of War Games (4+ MOTY votes)":
+            "09/04 | Ninja Mack vs. Dante Leon vs. Yoya vs. Nick Wayne vs. Jake Lander vs. Shane Mercer vs. Jordan Oliver in a PBR Ladder 2 Ring Fuckfest - GCW The Art of War Games (4+ MOTY votes)",
+        "09/04 | 44Oh! vs. Team MDK in The Art of War Games Match - GCW The Art of Wargames (4 MOTY votes)":
+            "09/04 | 44Oh! (Rickey Shane Page, Atticus Cogar, Gregory Iron, Bobby Beverly, Eddy Only, & Eric Ryan) vs. Team MDK (Nick Gage, Alex Colon, Mance Warner, Matthew Justice, EFFY, & AJ Gray) in The Art of War Games Match - GCW The Art of Wargames (4 MOTY votes)",
+        "09/05 | Best Friends & Jurassic Express vs. Hardy Family Office - AEW All Out":
+            "09/05 | Best Friends (Chuck Taylor, Orange Cassidy and Wheeler Yuta) & Jurassic Express vs. Hardy Family Office (Matt Hardy, Isiah Kassidy, Marq Quen, Angelico and Jack Evans) - AEW All Out",
+        "06/06 | Chris Brookes and 37KAMIINA (MAO and Shunma Katsumata) vs. Damnation (Tetsuya Endo, Soma Takao and Daisuke Sasaki w/ Mad Paulie) - CyberFight Festival 2021":
+            "06/06 | Chris Brookes and 37KAMIINA (MAO and Shunma Katsumata) vs. Damnation (Tetsuya Endo, Soma Takao and Daisuke Sasaki) - CyberFight Festival 2021",
+        "09/24 | Lucha Bros & Proud 'n' Powerful vs. Hardy Family Office - AEW Rampage: Grand Slam":
+            "09/24 | Lucha Bros & Proud 'n' Powerful vs. Private Party & The Butcher and The Blade - AEW Rampage: Grand Slam",
+        "09/29 | The Dark Order & Orange Cassidy vs. The Hardy Family Office - AEW Dynamite":
+            "09/29 | 5, 10, Evil Uno, Stu Grayson, Colt Cabana, John Silver, and Alex Reynolds & Orange Cassidy vs. Matt Hardy, Marq Quen, Isiah Kassidy, Jack Evans, Angelico, The Butcher, The Blade, and Jora Johl - AEW Dynamite",
+        "10/09 | Hyper Misao vs. Nodoka Tenma vs. Rika Tatsumi -TJPW Wrestle Princess 2":
+            "10/09 | Hyper Misao vs. Nodoka Tenma vs. Rika Tatsumi - TJPW Wrestle Princess 2",
+        "10/06 | The Super Kliq (Omega, Cole & The Young Bucks) vs. Bryan Danielson, Christian Cage & Jurassic Express - AEW Dynamite":
+           "10/06 | The Super Kliq (Kenny Omega, Adam Cole & The Young Bucks) vs. Bryan Danielson, Christian Cage & Jurassic Express - AEW Dynamite",
+        "10/27 | Dark Order (Uno, Stu, Colt & Silver) vs. The Super Elite (Omega, Cole & The Young Bucks) - AEW Dynamite":
+            "10/27 | Dark Order (Evil Uno, Stu Grayson, Colt Cabana & John Silver) vs. The Super Elite (Kenny Omega, Adam Cole & The Young Bucks) - AEW Dynamite",
+        "10/31 | DDT Tokyo Dome Cup 5 Million Yen Competition - DDT":
+            "10/31 | Konosuke Takeshita, MAO, Shunma Katsumata & Yuki Ueno vs. Brahman Brothers and Chris Brookes & Gorgeous Matsuno vs. 121000000 (Maki Ito & Miyu Yamashita) and Hikari Noa & Hyper Misao vs. Danshoku Dino, Yuki Ino & Yumehito Imanari & Tetsuya Endo vs. Kazuki Hirata, Kazusada Higuchi, Kouzi & Shinya Aoki - DDT",
+        "11/13 | Christian Cage & The Jungle Express vs. The Super Kliq in a Falls Count Anywhere match - AEW Full Gear":
+            "11/13 | Christian Cage & Jurassic Express vs. The Super Kliq in a Falls Count Anywhere match - AEW Full Gear",
+        "11/13 | Inner Circle vs. Men of the Year & American Top Team in a Minneapolis Street Fight- AEW Full Gear":
+            "11/13 | Inner Circle vs. Men of the Year & Dan Lambert & Junior dos Santos & Andrei Arlovski in a Minneapolis Street Fight- AEW Full Gear"
+    }
+}
+
+
