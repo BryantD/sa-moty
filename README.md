@@ -2,6 +2,8 @@
 
 Just terrible code. Big and monolithic and it aggregated rather than being designed, and you're gonna have to figure out required packages on your own. Sorry!
 
+If you're into automation, I used https://taskfile.dev to set up a crude build pipeline. `Taskfile.yml` configures all of that.
+
 # moty.py
 
 ## Usage
