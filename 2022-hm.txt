@@ -62,6 +62,7 @@
 03/06 | Jade Cargill (C) vs. Tay Conti for the TBS Title - AEW Revolution
 03/09 | Hangman Adam Page (C) vs. Dante Martin for the AEW Championship - AEW Dynamite
 03/09 | Sammy Guevara (C) vs. Scorpio Sky for the TNT Championship - AEW Dynamite
+03/11 | Darby Allin vs. Marq Quen - AEW Rampage
 03/11 | Jamie Hayter vs. Mercedes Martinez - AEW Rampage
 03/11 | Swerve Strickland vs. Tony Nese - AEW Rampage
 03/12 | Zack Sabre Jr. vs. DOUKI - NJPW New Japan Cup (4 MOTY votes)
@@ -78,6 +79,7 @@
 03/21 | Hiromu Takahashi vs. Shingo Takagi - NJPW New Japan Cup
 03/23 | CM Punk vs. Dax Harwood - AEW Dynamite
 03/25 | Ricky Starks vs. Shane Strickland - AEW Rampage
+03/26 | Syuri (C) vs. Giulia for the World of Stardom Title - STARDOM World Climax Day 1 (4 MOTY votes)
 03/27 | #STRONGHEARTS & Tatsumi Fujinami vs. Okada, Tanahashi, Satoshi Kojima & Tiger Mask - NJPW New Japan Cup
 03/30 | CM Punk vs. Max Caster - AEW Dynamite 
 03/30 | Jon Moxley vs. Jay Lethal - AEW Dynamite 
@@ -118,11 +120,163 @@
 04/24 | Risa Sera vs. Takashi Sakaski - Prominence Flag-Off Event ~ Scarlet Flame of the Beginning ~ (4+ MOTY votes)
 04/24 | Suzu Suzuki & Jun Kasai vs. Akane Fujita & Violent Jack - Prominence Flag-Off Event ~ Scarlet Flame of the Beginning ~ (4+ MOTY votes)
 04/25 | Taichi (C) vs. Shingo Takagi in a First to 30 Pin Counts Match for the KOPW Provisional Trophy - NJPW Golden Fight Series (4+ MOTY votes)
-04/27 | Dax Harwood vs. Cash Wheeler - AEW Dynamite
 04/27 | WARDLOW vs. Lance Archer - AEW Dynamite
 04/27 | Serena Deeb vs. Hikaru Shida in a Philadelphia Street Fight - AEW Dynamite
+04/29 | Darby Allin vs. Swerve Strickland - AEW Rampage
 04/29 | Arisa Nakajima vs. Tsukasa Fujimoto - SEAdLINNNG Golden Moment (4 MOTY votes)
 04/29 | Las Fresas de Egoistas (C) vs. Yoshiko & Ryo Mizunami for the Beyond the SEA Tag Team Championship - SEAdLINNNG Goldem Moment (4+ MOTY votes)
 04/30 | Kaito Kiyomiya vs. Go Shiozaki for the GHC Heavyweight Championship - NOAH Majestic (4 MOTY votes)
+04/30 | Filthy Tom Lawlor vs. Jon Moxley - DEFY Wild Ones (4 MOTY votes)
 05/01 | EVIL (C) vs. Tama Tonga for the NEVER Openweight Championship - NJPW Dontaku
 05/01 | El Desperado (C) vs. Taiji Ishimori for the IWGP Junior Heavyweight Championship - NJPW Dontaku
+05/05 | KAI vs. Susumu Yokosuka for the Open The Dream Gate Title - Dragongate Dead Or Alive (4 MOTY votes)
+05/06 | El Desperado & DOUKI vs. Jun Kasai & Tomoaki Honma - JTO TakaTaichiMania 2.5 (4 MOTY votes)
+05/06 | Ruby Soho & Toni Storm vs. Jamie Hayter & Britt Baker - AEW Rampage
+05/06 | Konosuke Takeshita vs. Jay Lethal - AEW Rampage
+05/11 | CM Punk vs. John Silver - AEW Rampage
+05/11 | Ricky Starks (C) vs. Jungle Boy for the FTW Championship - AEW Dynamite
+05/11 | Jamie Hayter vs. Toni Storm in the Owen Hart Memorial Tournament Quarterfinal - AEW Dynamite
+05/13 | Death Triangle vs. The Butcher and the Blade & Marq Quen - AEW Rampage
+05/13 | Riho vs. Ruby Soho in the Owen Hart Memorial Tournament Quarterfinal - AEW Rampage
+05/17 | El Lindaman vs. DOUKI - NJPW Best of Super Juniors Night 2
+05/17 | Wheeler Yuta vs. Robbie Eagles - NJPW Best of Super Juniors Night 2
+05/17 | El Desperado vs. Titán - NJPW Best of Super Juniors Night 2
+05/18 | Hiromu Takahashi vs. Francesco Akira - NJPW Best of Super Juniors Night 3 (4 MOTY votes)
+05/18 | Samoa Joe vs. Johnny Elite in the Owen Hart Memorial Tournament Quarterfinal - AEW Dynamite
+05/19 | Titán vs. El Lindaman - NJPW Best of the Super Juniors Night 4 (4 MOTY votes)
+05/20 | Adam Brooks vs. Konosuke Takeshita - DPW Fire (4 MOTY votes)
+05/20 | Kris Statlander vs. Red Velvet in the Owen Hart Memorial Tournament Quarterfinal - AEW Rampage
+05/22 | Robbie Eagles vs. DOUKI - NJPW Best of the Super Juniors Night 6
+05/22 | El Desperado vs. Wheeler Yuta - NJPW Best of the Super Juniors Night 6 (4 MOTY votes)
+05/23 | Nyla Rose & Emi Sakura vs. Yuka Sakazaki & Skye Blue - AEW Dark Elevation
+05/24 | Taiji Ishimori vs. SHO - NJPW Best of the Super Juniors Night 7 (4+ MOTY votes)
+05/25 | El Lindaman vs. El Phantasmo - NJPW Best of the Super Juniors Night 8
+05/25 | Ryusuke Taguchi vs. SHO - NJPW Best of the Super Juniors Night 8 (4+ MOTY votes)
+05/25 | Samoa Joe vs. Kyle O'Relly in the Owen Hart Memorial Tournament Semi-Final - AEW Dynamite
+05/26 | DOUKI vs. TJP - NJPW Best of the Super Juniors Night 9
+05/26 | Hiromu Takahashi vs. SHO - NJPW Best of the Super Juniors Night 9
+05/28 | Robbie Eagles vs. El Lindaman - NJPW Best of the Super Juniors Night 10
+05/28 | El Desperado vs. DOUKI - NJPW Best of the Super Juniors Night 10 (4+ MOTY votes)
+05/28 | Bryan Danielson vs. Matt Sydal - AEW Rampage
+05/28 | Ruby Soho vs. Kriss Statlander in the Owen Hart Memorial Tournament Semi-Final - AEW Rampage
+05/28 | Miyu Yamashita vs. Masha Slamovich - Prestige Roseland 3 Night 1 (4+ MOTY votes)
+05/29 | The Hardys vs. The Young Bucks - AEW Double or Nothing
+05/29 | Kyle O'Reilly vs. Darby Allin - AEW Double or Nothing
+06/01 | Mao (C) vs. Masahiro Takanashi for the DDT Universal Championship - DDT What Are You Doing? (4 MOTY votes)
+06/01 | Christian, Darby Allin, Matt Hardy & The Jurassic Express vs. The Undisputed Elite & Hikuleo - AEW Dynamite
+06/01 | Dr. Britt Baker DMD & Jamie Hayter vs. Ruby Soho & Toni Storm - AEW Dynamite
+06/05 | Bianca Belair (C) vs. Becky Lynch vs. Asuka for the Raw Women's Title - WWE Hell in a Cell (4 MOTY votes)
+06/08 | Casino Battle Royal - AEW Dynamite
+06/08 | Hangman Adam Page vs. David Finlay - AEW Dynamite
+06/10 | Eddie Kingston vs. Jake Hager - AEW Rampage
+06/10 | Kris Statlander vs. Red Velvet - AEW Rampage
+06/10 | Trent? & FTR vs. United Empire (Ospreay & Aussie Open) - AEW Rampage
+06/10 | Speedball Mike Bailey vs. Konosuke Takeshita - West Coast Pro Wrestling (4 MOTY votes)
+06/12 | SANADA vs. Will Ospreay for the IWGP US Title - NJPW Dominion
+06/12 | Kenoh vs Daisuke Sasaki - CyberFight Festival (4 MOTY votes)
+06/15 | Chris Jericho vs. Ortiz in a Hair vs. Hair Match - AEW Dynamite
+06/15 | Dr. Britt Baker DMD vs. Toni Storm - AEW Dynamite
+06/17 | Jade Cargill (C) vs. Willow Nightingale for the TBS Championship - AEW Rampage
+06/17 | Darby Allin vs. Bobby Fish - AEW Rampage
+06/18 | Lee Moriarty vs. Konosuke Takeshita - Prestige Wrestling (4 MOTY votes)
+06/19 | Black Taurus vs. Rey Fenix vs. Bandido vs. Hijo del Vikingo vs. Laredo Kidd - AAA Triplemania Tijuana (4+ MOTY votes)
+06/19 | Psycho Clown vs. Villano IV - AAA Triplemania Tijuana (4 MOTY votes)
+06/19 | Magical Sugar Rabbits (C) vs. Shoko Nakajima & Hyper Misao for the Princess Tag Championships - TJPW Additional Attack (4+ MOTY votes)
+06/19 | Will Ospreay vs. Nick Wayne - GCW (4 MOTY votes)
+06/22 | Roppongi Vice & Orange Cassidy vs. United Empire (Ospreay & Aussie Open) - AEW Dynamite
+06/22 | Penta Oscuro vs. Malakai Black in the AEW All Atlantic Championship Qualifier 2nd Round - New Japan Road 
+06/22 | Hangman Adam Page vs. Silas Young - AEW Dynamite
+06/24 | Jeff Cobb vs. Cash Wheeler - AEW Rampage
+06/26 | The Factory (Aaron Solo & QT Marshall) vs. CHAOS (Hirooki Goto & YOSHI-HASHI) - AEW/NJPW Forbidden Door
+06/26 | Max Caster, Billy Gunn & The Ass Boys vs. LA Dojo Young Lions - AEW/NJPW Forbidden Door
+06/26 | Switchblade Jay White (C) vs. Kazuchika Okada vs. Hangman Adam Page vs. Adam Cole for the IWGP World Heavyweight Championship - AEW/NJPW Forbidden Door
+07/01 | El Lindaman (C) vs. Tetsuya Izuchi for the G-REX Championship - GLEAT Ver. 3 (4 MOTY votes)
+07/01 | The Royal Rampage - AEW Rampage
+07/01 | The Young Bucks vs. Hirooki Goto & YOSHI-HASHI - AEW Rampage
+07/01 | Toni Storm vs. Nyla Rose - AEW Rampage
+07/03 | Kazusada Higuchi vs. Naomi Yoshimura for the KO-D Openweight Championship - DDT King of DDT (4 MOTY votes)
+07/06 | Penta Oscuro vs. RUSH - AEW Dynamite
+07/06 | Jon Moxley (C) vs. Brody King for the AEW World Title - AEW Dynamite
+07/09 | Tony Nese vs. Orange Cassidy - AEW Rampage
+07/09 | Raku, Aja Kong, Yuki Aino & Pom Harajuku vs. Hyper Misao, Nao Kakuta, Kaya Toribami & Haruna Neko - TJPW Summer Sun Princess '22
+07/09 | Riho & Arisu Endo vs. MeiBee Surprise (Mei Suruga & Suzume) - TJPW Summer Sun Princess '22
+07/09 | Maki Itoh (C) vs. Alex Windsor for the International Princess Championship - TJPW Summer Sun Princess '22
+07/09 | Miyu Yamashita vs. Thunder Rosa - TJPW Summer Sun Princess '22
+07/09 | Shoko Nakajima (C) vs. Rika Tatsumi for the Princess of Princess Championship - TJPW Summer Sun Princess '22
+07/10 | Chihiro Hashimoto (C) vs. ASUKA for the- Sendai Girls World Championship - Sendai Girls Senjo Chronicle (4+ MOTY votes)
+07/10 | PAC (C) vs. Shota Umino for the AEW All Atlantic Championship - RevPro Live in Sheffield
+07/13 | WARDLOW (C) vs. Orange Cassidy for the TNT Championship - AEW Dynamite Fyter Fest Night 1
+07/16 | Hyper Misao vs. Miyu Yamashita - TJPW Princess Cup Night 1
+07/16 | Switchblade Jay White vs. SANADA - NJPW G1 Climax 32 Night 1
+07/17 | Zack Sabre Jr. vs. KENTA - NJPW G1 Climax 32 Night 2 (4+ MOTY votes)
+07/20 | Best Friends vs. Blackpool Combat Club - AEW Dynamite Fyter Fest Night 2
+07/23 | Zack Sabre Jr. vs. Aaron Henare - NJPW G1 Climax 32 Night 4 
+07/23 | Alex Zayne, Blake Christian, & Tony Deppen vs. Brian Cage, Kaun, & Toa Liona - ROH Death Before Dishonor
+07/23 | Jonathan Gresham (C) vs. Claudio Castagnoli for the ROH World Championship - ROH Death before Dishonor
+07/23 | Samoa Joe (C) vs. Jay Lethal for the ROH TV Title - ROH Death Before Dishonor
+07/24 | Hiroshi Tanahashi vs. Tetsuya Naito - NJPW G1 Climax 32 Night 5 (4+ MOTY votes)
+07/26 | KENTA vs. EVIL - NJPW G1 Climax 32 Night 6
+07/27 | Tomohiro Ishii vs. Tama Tonga - NJPW G1 Climax 32 Night 7
+07/27 | Jon Moxley (C) vs. Rush for the AEW World Title - AEW Dynamite
+07/27 | Dante Martin vs. Sammy Guevara - AEW Dynamite
+07/29 | Anna Jay vs. Ruby Soho - AEW Rampage
+07/30 | Roman Reigns (C) vs. Brock Lesnar in a Last Man Standing Match for the WWE Championship - WWE Summerslam (4+ MOTY votes)
+07/31 | Rika Tatsumi vs. Suzume - TJPW Princess Cup
+07/31 | Nao Kakuta vs. Miyu Yamashita - TJPW Princess Cup
+07/31 | Switchblade Jay White vs. Chase Owens - NJPW G1 Climax 32 Night 9
+08/02 | Filthy Tom Lawlor vs. Toru Yano - NJPW G1 Climax 32 Night 10
+08/02 | David Finlay vs. Will Ospreay - NJPW G1 Climax 32 Night 10 (4 MOTY votes)
+08/03 | Orange Cassidy vs. Jay Lethal - AEW Dynamite
+08/03 | Dr. Britt Baker DMD & Jamie Hayter vs. Thunder Rosa & Toni Storm - AEW Dynamite
+08/03 | The Acclaimed vs. Gunn Club in a Dumpster Match - AEW Dynamite
+08/03 | Chris Jericho vs. Wheeler Yuta - AEW Dynamite
+08/05 | Jeff Cobb vs. JONAH - NJPW G1 Climax 32 Night 11
+08/05 | Jon Moxley vs. Mance Warner - AEW Rampage
+08/05 | Swerve in our Glory vs. Tony Nese & Josh Woods in a Street Fight - AEW Rampage
+08/06 | YOSHI-HASHI vs. El Phantasmo - NJPW G1 Climax 32 Night 12
+08/06 | Thunder Rosa (C) vs. Jamie Hayter for the AEW Women's Championship - AEW Battle of the Belts III 
+08/07 | Juice Robinson vs. El Phantasmo - NJPW G1 Climax 32 Night 13
+08/09 | Tetsuya Naito vs. KENTA - NJPW G1 Climax 32 Night 14 (4 MOTY votes)
+08/10 | Filthy Tom Lawlor vs. Kazuchika Okada - NJPW G1 Climax 32 Night 15 (4 MOTY votes)
+08/10 | Darby Allin vs. Brody King in a Coffin Match - AEW Dynamite Quake at the Lake (4+ MOTY votes)
+08/11 | La Faccion Ingobernable vs. The Lucha Bros - AEW Dynamite Quake at the Lake
+08/13 | Rika Tatsumi vs. Hyper Misao vs. Mizuki - TJPW Princess Cup 9 Night 6
+08/13 | Yuka Sakazaki vs. Suzume - TJPW Princess Cup 9 Night 6
+08/13 | Taichi vs. Switchblade Jay White - NJPW G1 Climax 32 Night 16 (4 MOTY votes)
+08/13 | Alex Colon (C) vs. Rina Yamashita in a Glass Tubes and Doors Deathmatch for the GCW Ultraviolent Championship - GCW Homecoming (4 MOTY votes)
+08/14 | Max The Impaler & Yuki Aino vs. Shoko Nakajima & Rika Tatsumi - TJPW Princess Cup 9
+08/14 | Miu Watanabe vs. Yuka Sakazaki in the Princess Cup Final - TJPW Princess Cup 9
+08/14 | Hiroshi Tanahashi vs. KENTA - NJPW G1 Climax 32 Night 17 (4+ MOTY votes)
+08/14 | Akito vs. Joey Janela in an IPPON Lighttube Deathmatch - DDT Road to Peter Pan ~Everybody Shout~ (4+ MOTY votes)
+08/16 | Kazuchika Okada vs. Lance Archer - NJPW G1 Climax 32 Night 18 (4+ MOTY votes)
+08/17 | Kazuchika Okada vs. Tama Tonga - NJPW G1 Climax 32 Semi-Finals (4+ MOTY votes)
+08/19 | Atlantis Jr., El Soberano Jr., Mistico, Stuka Jr., Templario, Titan, Ultimo Guerrero & Volador Jr. vs. El Mesias, Kenny King, Lince Dorado, Matt Taven, Oraculo, Robbie Eagles, Rocky Romero & Tiger Mask - CMLL Grand Prix (4 MOTY votes)
+08/20 | Kazusada Higuchi (C) vs. Tetsuya Endo for the KO-D Openweight Championship - DDT Peter Pan (4+ MOTY votes)
+08/24 | Kento Miyahara vs. Tetsuya Izuchi - GLEAT G Prowrestling Ver.31 (4+ MOTY votes)
+08/24 | El Lindaman (C) vs. DOUKI for the GLEAT G-REX Title - GLEAT G Prowrestling Ver.31 (4+ MOTY votes)
+08/24 | Jay Lethal vs. Dax Harwood - AEW Dynamite
+08/28 | Hyper Misao vs. Raku - TJPW Go Girl 3
+08/28 | Shoko Nakajima, Rika Tatsumi & Miu Watanabe vs. Magical Sugar Rabbits & Miyu Yamashita - TJPW Go Girl 3
+08/29 | Hikaru Shida (C) vs. Emi Sakura for the Regina Di WAVE Championship - AEW Dark Elevation
+08/31 | Bryan Danielson vs. Jake Hager - AEW Dynamite
+08/31 | Hikaru Shida & Toni Storm vs. Dr. Britt Baker DMD & Jamie Hayter - AEW Dynamite
+08/31 | Rey Fénix vs. Dante Martin vs. RUSH vs. Wheeler Yuta - AEW Dynamite
+09/02 | Dark Order (Hangman, Silver & Reynolds) vs. Best Friends & Orange Cassidy - AEW Rampage (4 MOTY votes)
+09/04 | Chris Brookes vs. VENY - DDT Dramatic Explosion (4 MOTY votes)
+09/04 | Kazusada Higuchi & Naomi Yoshimura (C) vs. HARASHIMA & Toru Owashi for the KO-D Tag Titles - DDT Dramatic Explosion (4 MOTY votes)
+09/04 | Dr. Britt Baker DMD vs. Hikaru Shida vs. Toni Storm vs. Jamie Hayter in a Fatal Fourway for the AEW Women’s Championship - AEW All Out
+09/04 | Bryan Danielson vs. Chris Jericho - AEW All Out
+09/05 | Minoru Suzuki vs. Bad Dude Tito - NJPW Burning Spirit
+09/07 | Best Friends & Orange Cassidy vs. Triangulo de la Muerte for the AEW Trios Tag Titles - AEW Dynamite
+09/09 | Claudio Castagnoli (C) vs. Dax Harwood for the ROH World Title - AEW Rampage
+09/14 | Jon Moxley vs. Sammy Guevara - AEW Dynamite
+09/14 | Swerve in our Glory (C) vs. The Lucha Bros for the AEW World Tag Team Championships - AEW Dynamite
+09/19 | Yuna Mizumori vs. Mei Suruga - Gatoh Move 10th Anniversary ~ Phoenix Rises (4 MOTY votes)
+09/19 | Yuki Yoshioka vs. Eita for the Open The Dream Gate Title - Dragongate Dangerous Gate (4 MOTY votes)
+09/19 | House of Black vs. Sting & Darby Allin - AEW Rampage Grand Slam
+09/21 | Swerve in our Glory (C) vs. The Acclaimed for the AEW World Tag Team Championships - AEW Grand Slam
+09/21 | PAC (C) vs. Orange Cassidy for the All Atlantic Title - AEW Grand Slam
+09/21 | Toni Storm (C) vs. Athena vs. Serena Deeb vs. Dr. Britt Baker DMD for the AEW Women's Title - AEW Grand Slam
+09/23 | Action Bronson & HOOK vs. 2Point0 - AEW Rampage Grand Slam
+09/23 | Ricky Starks vs. Powerhouse Hobbs in a Lights Out Match - AEW Rampage Grand Slam
+09/25 | Kenoh (C) vs. Kaito Kiyomiya for the GHC Championship - NOAH Grand Ship (4 MOTY votes)

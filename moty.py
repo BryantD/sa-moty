@@ -1,20 +1,18 @@
 #!/usr/bin/env python3
 
-import re
 import argparse
 import json
-from textwrap import fill
-from datetime import date
-from dateutil.relativedelta import *
+import re
 from collections import Counter
-
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-import matplotlib as mpl
-import pandas as pd
+from datetime import date
+from textwrap import fill
 
 import bar_chart_race as bcr
-
+import matplotlib as mpl
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
+import pandas as pd
+from dateutil.relativedelta import *
 from tabulate import tabulate
 
 
@@ -339,11 +337,10 @@ def make_graph(match_list, graph_name):
                 (bar.get_x(), bar.get_height()),
                 ha="left",
                 va="top",
-                size=12,
                 xytext=(6, -5),
                 textcoords="offset points",
                 wrap=True,
-                fontsize=9,
+                fontsize=12,
                 fontstretch="condensed",
             )
 

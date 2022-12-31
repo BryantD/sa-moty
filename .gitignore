@@ -1,0 +1,11 @@
+.DS_Store
+2021
+*.gif
+*.png
+MOTY.bbprojectd/
+README-ffmpeg
+Taskfile.yml
+historical
+imgur_obj.p
+upload.py
+video-links/

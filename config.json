@@ -4,6 +4,7 @@
         "Alan V Angels": "5",
         "Andrade": "Andrade El Idolo",
         "ASUKA": "VENY",
+        "Brian Danielson": "Bryan Danielson",
         "Brian Pillman Jr": "Brian Pillman Jr.",
         "Britt Baker": "Dr. Britt Baker D.M.D.",
         "Chris Dicksinon": "Chris Dickinson",
@@ -16,14 +17,24 @@
         "Dr. Britt Baker DMD": "Dr. Britt Baker D.M.D.",
         "El Vikingo": "El Hijo del Vikingo",
         "Feugo del Sol": "Fuego del Sol",
+        "GOK": "Great O-Khan",
+        "Hangman": "Hangman Adam Page",
         "Hangman Page": "Hangman Adam Page",
         "Henare": "Aaron Henare",
         "HOOK": "Hook",
         "Ishii": "Tomohiro Ishii",
+        "Jeff Parker": "Angelo Parker",
+        "Johnny Elite": "John Morrison",
+        "Kenny": "Kenny Omega",
+        "Kriss Statlander": "Kris Statlander",
         "Lulupencil": "Lulu Pencil",
         "Manik": "TJP",
+        "Matt Lee": "Matt Menard",
         "Naito": "Tetsuya Naito",
-        "O-Khan": "The Great O-Khan",
+        "O-Khan": "Great O-Khan",
+        "Ospreay": "Will Ospreay",
+        "Penta": "Penta El Zero M",
+        "Penta Oscuro": "Penta El Zero M",
         "Penta 0M": "Penta El Zero M",
         "Penta El 0 M": "Penta El Zero M",
         "Penta El 0M": "Penta El Zero M",
@@ -31,16 +42,21 @@
         "Powerhouse Hobbs": "Powerhouse Will Hobbs",
         "Presten 10 Vance": "10",
         "Red Velt": "Red Velvet",
+        "Rey Fénix": "Rey Fenix",
         "Reynolds": "Alex Reynolds",
         "Rick Starks": "Ricky Starks",
         "Ruby Riott": "Ruby Soho",
+        "RUSH": "Rush",
         "Sanada": "SANADA",
         "Shingo": "Shingo Takagi",
         "Silver": "John Silver",
         "Stu": "Stu Grayson",
         "SW3RVE The Realest": "Swerve Strickland",
+        "Swerve": "Swerve Strickland",
         "Switchblade Jay White": "Jay White",
+        "the Blade": "The Blade",
         "The Captain Shawn Dean": "Shawn Dean",
+        "Toni Sofrm": "Toni Storm",
         "Trent?": "Trent? Beretta",
         "Uno": "Evil Uno",
         "Veny": "VENY",
@@ -52,8 +68,11 @@
     
     "tag_aliases": {
         "2.0": "2point0",
+        "2Point0": "2point0",
+        "Ass Boys": "Gunn Club",
         "Bakuretsu Sisters": "The Bakuretsu Sisters",
         "Brahman Brothers": "The Brahman Brothers",
+        "Death Triangle": "Triangulo de la Muerte",
         "Inner Circle": "The Inner Circle",
         "Lucha Bros": "The Lucha Bros",
         "Lucha Brothers": "The Lucha Bros",
@@ -63,6 +82,8 @@
         "reDragon": "reDRagon",
         "STRONGHEARTS": "#STRONGHEARTS",
         "TH2": "The Hybrid2",
+        "The Ass Boys": "Gunn Club",
+        "The Bucks": "The Young Bucks",
         "The Gunn Club": "Gunn Club",
         "The Hybrid 2": "The Hybrid2",
         "The Jurassic Express": "Jurassic Express",
@@ -74,12 +95,13 @@
     "tag_teams": {
         "121000000": ["Maki Ito", "Miyu Yamashita"],
         "2point0": ["Jeff Parker", "Matt Lee"],
+        "Aussie Open": ["Kyle Fletcher", "Mark Davis"],
         "Bear Country": ["Bear Boulder", "Bear Bronson"],
         "Beauty As Is": ["Emi Sakura", "Yuna Mizomori"],
         "BeeStar": ["Mirai Maiumi", "Suzume"],
         "Best Bros": ["Mei Suruga", "Baliyan Akki"],
         "Best Friends": ["Chuck Taylor", "Trent? Beretta"],
-        "Blackpool Combat Club": ["Wheeler Yuta", "Brian Danielson", "Jon Moxley"],
+        "Blackpool Combat Club": ["Wheeler Yuta", "Bryan Danielson", "Jon Moxley"],
         "CDK": ["Masahiro Takanashi", "Chris Brookes"],
         "Dangerous Tekkers": ["Zack Sabre Jr.", "Taichi"],
         "EGG TART": ["Chie Koishikawa", "Hagane Shinnou"],
@@ -89,6 +111,7 @@
         "Gunn Club": ["Austin Gunn", "Colten Gunn"],
         "House of Black": ["Malakai Black", "Brody King", "Buddy Matthews"],
         "Jurassic Express": ["Jungle Boy", "Luchasaurus"],
+        "La Faccion Ingobernable": ["Rush", "Andrade El Idolo"],
         "Las Fresas de Egoistas": ["ASUKA", "Makoto"],
         "Magical Sugar Rabbits": ["Mizuki", "Yuka Sakazaki"],
         "Men of the Year": ["All Ego Ethan Page", "Scorpio Sky"],
@@ -102,7 +125,6 @@
         "#STRONGHEARTS": ["CIMA", "T-Hawk", "El Lindaman"],
         "The Acclaimed": ["Anthony Bowens", "Max Caster"],
         "The Aggression": ["Katsuhiko Nakajima", "Masa Kitamiya"],
-        "The Ass Boys": ["Austin Gunn", "Colten Gunn"],
         "The Bakuretsu Sisters": ["Nodoka Tenma", "Yuki Aino"],
         "The Brahman Brothers": ["Brahman Shu", "Brahman Kei"],
         "The Briscoes": ["Jay Briscoe", "Mark Briscoe"],
@@ -115,6 +137,9 @@
             "Ortiz",
             "Santana",
             "Jake Hager"
+        ],
+        "The Jericho Appreciation Society": [
+            "Chris Jericho", "Jake Hager", "Jeff Parker", "Matt Lee", "Daniel Garcia"
         ],
         "The Jungle Express": ["Jungle Boy", "Luchasaurus", "Marko Stunt"],
         "The Lucha Bros": ["Penta El Zero M", "Rey Fenix"],
@@ -148,7 +173,29 @@
         "03/06 | Face of the Revolution Ladder Match - AEW Revolution":
             "03/06 | Wardlow, Christian Cage, Keith Lee, Orange Cassidy, Powerhouse Hobbs, and Ricky Starks in the Face of the Revolution Ladder Match - AEW Revolution",
         "04/15 | Blackpool Combat Club vs. The Gunn Club - AEW Rampage":
-            "04/15 | Blackpool Combat Club vs. The Gunn Club and Billy Gunn - AEW Rampage"
+            "04/15 | Blackpool Combat Club vs. The Gunn Club and Billy Gunn - AEW Rampage",
+        "05/29 | Jurassic Express (C) vs. Team Taz vs. Swerve Strickland & Keith Lee for the AEW Tag Titles - AEW Double or Nothing": 
+            "05/29 | Jurassic Express (C) vs. Powerhouse Will Hobbs & Ricky Starks vs. Swerve Strickland & Keith Lee for the AEW Tag Titles - AEW Double or Nothing",
+        "05/29 | Blackpool Combat Club, Proud 'n' Powerful & Eddie Kingston vs. The Jericho Appreciation Society in an Anarchy in the Arena Match - AEW Double or Nothing":
+            "05/29 | Blackpool Combat Club, Proud 'n' Powerful & Eddie Kingston vs. The Jericho Appreciation Society (Chris Jericho, Matt Menard, Angelo Parker, Daniel Garcia and Jake Hager) in an Anarchy in the Arena Match - AEW Double or Nothing",
+        "06/01 | Christian, Darby Allin, Matt Hardy & The Jurassic Express vs. The Undisputed Elite & Hikuleo - AEW Dynamite":
+            "06/01 | Christian, Darby Allin, Matt Hardy & The Jurassic Express vs. reDRagon, The Young Bucks, & Hikuleo - AEW Dynamite",
+        "06/08 | Casino Battle Royal - AEW Dynamite":
+            "06/08 | Kyle O'Reilly vs. Andrade El Idolo vs. Austin Gunn vs. Bobby Fish vs. Colten Gunn vs. Daniel Garcia vs. Dante Martin vs. Darby Allin vs. Eddie Kingston vs. Jake Hager vs. John Silver vs. Keith Lee vs. Konosuke Takeshita vs. Lance Archer vs. Max Caster vs. Powerhouse Hobbs vs. Rey Fenix vs. Ricky Starks vs. Swerve Strickland vs. Tony Nese vs. Wheeler Yuta - AEW Dynamite",
+        "06/26 | Max Caster, Billy Gunn & The Ass Boys vs. LA Dojo Young Lions - AEW/NJPW Forbidden Door": 
+            "06/26 | Max Caster, Billy Gunn & The Ass Boys vs. Alex Coughlin, Yuya Uemura, The DKC & Kevin Knight - AEW/NJPW Forbidden Door",
+        "06/26 | Thunder Rosa (C) vs. Toni Sofrm for the AEW Women's Championship -":
+            "06/26 | Thunder Rosa (C) vs. Toni Sofrm for the AEW Women's Championship - AEW/NJPW Forbidden Door",
+        "06/29 | Jericho Appreciation Society vs. Blackpool Combat Club in a Blood & Guts Match - AEW Dynamite":
+            "06/29 | Jericho Appreciation Society (Angelo Parker, Chris Jericho, Daniel Garcia, Jake Hager, Matt Menard & Sammy Guevara) vs. Blackpool Combat Club (Claudio Castagnoli, Jon Moxley & Wheeler Yuta), Eddie Kingston, and Proud 'n' Powerful in a Blood & Guts Match - AEW Dynamite",
+        "07/01 | The Royal Rampage - AEW Rampage": 
+            "07/01 | The Blade vs. Brody King vs. The Butcher vs. Dante Martin vs. Darby Allin vs. Dustin Rhodes vs. Frankie Kazarian vs. Hangman Page vs. John Silver vs. Keith Lee vs. Konusuke Takeshita vs. Matt Hardy vs. Max Caster vs. Orange Cassidy vs. Penta Oscuro vs. Powerhouse Hobbs vs. Ricky Starks vs. RUSH vs. Swerve Strickland vs. Tony Nese - AEW Rampage",
+        "08/11 | La Faccion Ingobernable vs. The Lucha Bros - AEW Dynamite Quake at the Lake":
+            "08/10 | La Faccion Ingobernable vs. The Lucha Bros - AEW Dynamite Quake at the Lake",
+        "08/17 | The Young Bucks & Kenny Omega vs. La Faccion Ingobernable - AEW Dynamite":
+            "08/17 | The Young Bucks & Kenny Omega vs. La Faccion Ingobernable and Dragon Lee) - AEW Dynamite",
+        "09/04 | Hangman & The Dark Order vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out":
+            "09/04 | Hangman & The Dark Order (Alex Reynolds and John Silver) vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out"
     }
 }
 
