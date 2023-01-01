@@ -82,3 +82,5 @@ Note that the code knows how to handle stuff like "Dark Order (10 & 5)" -- it do
 # upload.py
 
 This is my clunky automation for uploading the images to imgur. You will need to copy `upload-conf-sample.py` to `upload-conf.py` and then edit your imgur API tokens.  The first time you run it, uncomment the bit that says "Uncomment from here to get the initial auth tokens saved". Or rewrite my code so that it can tell if auth tokens are saved, that'd probably be cooler.
+
+I've had some issues uploading larger GIFs with the API, even though they're within the documented imgur size limit. YMMV.

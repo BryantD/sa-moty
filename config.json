@@ -4,6 +4,7 @@
         "Alan V Angels": "5",
         "Andrade": "Andrade El Idolo",
         "ASUKA": "VENY",
+        "Bennett": "Mike Bennett",
         "BLACK On The Outside Blue On The Inside Hikaritaro Nohashi": "Taro Nohashi",
         "Brahman Ota": "Pretty Ota",
         "Brian Danielson": "Bryan Danielson",
@@ -20,6 +21,7 @@
         "Dr. Britt Baker D.M.D": "Dr. Britt Baker D.M.D.",
         "Dr. Britt Baker DMD": "Dr. Britt Baker D.M.D.",
         "El Vikingo": "El Hijo del Vikingo",
+        "Fénix": "Rey Fenix",
         "Feugo del Sol": "Fuego del Sol",
         "GOK": "Great O-Khan",
         "Hangman": "Hangman Adam Page",
@@ -34,9 +36,10 @@
         "Lulupencil": "Lulu Pencil",
         "Manik": "TJP",
         "Matt Lee": "Matt Menard",
-        "Mr. Miyagi No. 1": "Yapper Man 1",
+        "Mr. Miyagi No.1": "Yapper Man 1",
         "Naito": "Tetsuya Naito",
         "O-Khan": "Great O-Khan",
+        "Okada": "Kazuchika Okada",
         "Ospreay": "Will Ospreay",
         "Penta": "Penta El Zero M",
         "Penta Oscuro": "Penta El Zero M",
@@ -59,10 +62,13 @@
         "SW3RVE The Realest": "Swerve Strickland",
         "Swerve": "Swerve Strickland",
         "Switchblade Jay White": "Jay White",
+        "Tanahashi": "Hiroshi Tanahashi",
         "Taven": "Matt Taven",
         "the Blade": "The Blade",
         "The Captain Shawn Dean": "Shawn Dean",
+        "Tiger Mask": "Tiger Mask IV",
         "Toni Sofrm": "Toni Storm",
+        "Trent": "Trent? Beretta",
         "Trent?": "Trent? Beretta",
         "Uno": "Evil Uno",
         "Veny": "VENY",
@@ -172,48 +178,7 @@
     },
 
     "matches": {
-        "01/08 | Los Ingobernables de Japon vs. KONGO - NJPW Wrestle Kingdom 16 Night 3: New Japan vs. NOAH":
-            "01/08 | Shingo Takagi, Tetsuya Naito, Sanada, Hiromu Takahashi, & BUSHI vs. Katsuhiko Nakajima, Kenoh, Manabu Soya, Tadasuke, & Aleja - NJPW Wrestle Kingdom 16 Night 3: New Japan vs. NOAH",
-        "02/02 | PAC & Penta El Zero M vs. The Kings of the Black Throne - AEW Dynamite":
-            "02/02 | PAC & Penta El Zero M vs. Malakai Black & Brody King - AEW Dynamite",
-        "03/02 | Tag Team Elimination Battle Royale - AEW Dynamite": 
-            "03/02 | Top Flight vs. The Acclaimed vs. Dark Order (10 & 5) vs. The Butcher & The Blade vs. Varsity Blonds vs. Bear Country vs. Proud 'n' Powerful vs. Best Friends vs. Dark Order (Stu Grayson & Evil Uno) vs. The Young Bucks vs. Ryan Nemeth & Peter Avalon vs. Gunn Club vs. Brock Anderson & Lee Johnson vs. 2point0 - AEW Dynamite",
-        "03/06 | House of Black vs. Death Triangle & Erick Redbeard - AEW Revolution":
-            "03/06 | House of Black vs. Penta El Zero M, PAC, & Erick Redbeard - AEW Revolution",
-        "03/06 | Face of the Revolution Ladder Match - AEW Revolution":
-            "03/06 | Wardlow, Christian Cage, Keith Lee, Orange Cassidy, Powerhouse Hobbs, and Ricky Starks in the Face of the Revolution Ladder Match - AEW Revolution",
-        "04/15 | Blackpool Combat Club vs. The Gunn Club - AEW Rampage":
-            "04/15 | Blackpool Combat Club vs. The Gunn Club and Billy Gunn - AEW Rampage",
-        "05/29 | Jurassic Express (C) vs. Team Taz vs. Swerve Strickland & Keith Lee for the AEW Tag Titles - AEW Double or Nothing": 
-            "05/29 | Jurassic Express (C) vs. Powerhouse Will Hobbs & Ricky Starks vs. Swerve Strickland & Keith Lee for the AEW Tag Titles - AEW Double or Nothing",
-        "05/29 | Blackpool Combat Club, Proud 'n' Powerful & Eddie Kingston vs. The Jericho Appreciation Society in an Anarchy in the Arena Match - AEW Double or Nothing":
-            "05/29 | Blackpool Combat Club, Proud 'n' Powerful & Eddie Kingston vs. The Jericho Appreciation Society (Chris Jericho, Matt Menard, Angelo Parker, Daniel Garcia and Jake Hager) in an Anarchy in the Arena Match - AEW Double or Nothing",
-        "06/01 | Christian, Darby Allin, Matt Hardy & The Jurassic Express vs. The Undisputed Elite & Hikuleo - AEW Dynamite":
-            "06/01 | Christian, Darby Allin, Matt Hardy & The Jurassic Express vs. reDRagon, The Young Bucks, & Hikuleo - AEW Dynamite",
-        "06/08 | Casino Battle Royal - AEW Dynamite":
-            "06/08 | Kyle O'Reilly vs. Andrade El Idolo vs. Austin Gunn vs. Bobby Fish vs. Colten Gunn vs. Daniel Garcia vs. Dante Martin vs. Darby Allin vs. Eddie Kingston vs. Jake Hager vs. John Silver vs. Keith Lee vs. Konosuke Takeshita vs. Lance Archer vs. Max Caster vs. Powerhouse Hobbs vs. Rey Fenix vs. Ricky Starks vs. Swerve Strickland vs. Tony Nese vs. Wheeler Yuta - AEW Dynamite",
-        "06/26 | Max Caster, Billy Gunn & The Ass Boys vs. LA Dojo Young Lions - AEW/NJPW Forbidden Door": 
-            "06/26 | Max Caster, Billy Gunn & The Ass Boys vs. Alex Coughlin, Yuya Uemura, The DKC & Kevin Knight - AEW/NJPW Forbidden Door",
-        "06/26 | Thunder Rosa (C) vs. Toni Sofrm for the AEW Women's Championship -":
-            "06/26 | Thunder Rosa (C) vs. Toni Sofrm for the AEW Women's Championship - AEW/NJPW Forbidden Door",
-        "06/29 | Jericho Appreciation Society vs. Blackpool Combat Club in a Blood & Guts Match - AEW Dynamite":
-            "06/29 | Jericho Appreciation Society (Angelo Parker, Chris Jericho, Daniel Garcia, Jake Hager, Matt Menard & Sammy Guevara) vs. Blackpool Combat Club (Claudio Castagnoli, Jon Moxley & Wheeler Yuta), Eddie Kingston, and Proud 'n' Powerful in a Blood & Guts Match - AEW Dynamite",
-        "07/01 | The Royal Rampage - AEW Rampage": 
-            "07/01 | The Blade vs. Brody King vs. The Butcher vs. Dante Martin vs. Darby Allin vs. Dustin Rhodes vs. Frankie Kazarian vs. Hangman Page vs. John Silver vs. Keith Lee vs. Konusuke Takeshita vs. Matt Hardy vs. Max Caster vs. Orange Cassidy vs. Penta Oscuro vs. Powerhouse Hobbs vs. Ricky Starks vs. RUSH vs. Swerve Strickland vs. Tony Nese - AEW Rampage",
-        "08/11 | La Faccion Ingobernable vs. The Lucha Bros - AEW Dynamite Quake at the Lake":
-            "08/10 | La Faccion Ingobernable vs. The Lucha Bros - AEW Dynamite Quake at the Lake",
-        "08/17 | The Young Bucks & Kenny Omega vs. La Faccion Ingobernable - AEW Dynamite":
-            "08/17 | The Young Bucks & Kenny Omega vs. La Faccion Ingobernable and Dragon Lee) - AEW Dynamite",
-        "09/04 | Hangman & The Dark Order vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out":
-            "09/04 | Hangman & The Dark Order (Alex Reynolds and John Silver) vs. The Elite (Kenny & The Bucks) for the AEW Trios Tag Titles - AEW All Out",
-        "10/07 | Triangulo de la Muerte (C) vs. The Dark Order for the Trios Tag Titles - AEW Rampage":
-            "10/07 | Triangulo de la Muerte (C) vs. The Dark Order (10, Alex Reynolds, and John Silver) for the Trios Tag Titles - AEW Rampage",
-        "10/18 | Triangulo de la Muerte (C) vs. The Best Friends for the Trios Tag Titles - AEW Dynamite (4 MOTY votes)":
-            "10/18 | Triangulo de la Muerte (C) vs. The Best Friends (Orange Cassidy, Trent, and Chuck Taylor) for the Trios Tag Titles - AEW Dynamite (4 MOTY votes)",
-        "10/26 | BCC (Claudio & Yuta) vs. JAS (Jericho & Garcia) - AEW Dynamite":
-            "10/26 | BCC (Claudio Castagnoli & Wheeler Yuta) vs. JAS (Chris Jericho & Daniel Garcia) - AEW Dynamite",
-        "12/19 | Suzuki-gun (Suzuki & DOUKI) vs. Jun Kasai & Tomoaki Honma - JTO TakaTaichi 50th Anniversary Show":
-            "12/19 | Suzuki-gun (Minoru Suzuki & DOUKI) vs. Jun Kasai & Tomoaki Honma - JTO TakaTaichi 50th Anniversary Show"
+
     }
 }
 
